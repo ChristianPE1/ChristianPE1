@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%AF+Problem+Solver;%F0%9F%8C%9F+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🎯 Sobre mí
-
-Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo web moderno y la implementación de sistemas robustos, siempre buscando las mejores prácticas y tecnologías emergentes.
-
-- 🔭 Actualmente trabajando en proyectos de **desarrollo web full stack**
-- 🌱 Constantemente aprendiendo sobre **IA, algoritmos y nuevas tecnologías**
-- 💡 Interesado en **optimización de rendimiento** y **arquitectura de software**
-- 🎓 Enfocado en **clean code** y **mejores prácticas de desarrollo**
-
----
 
 ## 🛠️ Stack Tecnológico
 
