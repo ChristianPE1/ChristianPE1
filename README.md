@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Christian PE
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%AF+Problem+Solver;%F0%9F%8C%9F+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Computer+Science;%F0%9F%8E%AF+Problem+Solver;%F0%9F%8C%9F+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 
