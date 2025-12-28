@@ -1,4 +1,4 @@
-# Hola, soy Christian Pardave
+# Hola, soy Christian Pardavé Espinoza
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Computer+Science+Student;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## Sobre mi
 
-Soy estudiante de ultimo ciclo de Ciencia de la Computacion, con enfoque en desarrollo web Full Stack y despliegue de aplicaciones en la nube. Tengo experiencia construyendo aplicaciones completas con React en el frontend y Django REST Framework y Laravel en el backend, integrando APIs REST, autenticacion y bases de datos relacionales.
+Soy estudiante de ultimo ciclo de Ciencia de la Computación, con enfoque en desarrollo web Full Stack y despliegue de aplicaciones en la nube. Tengo experiencia construyendo aplicaciones completas con React en el frontend y Django REST Framework y Laravel en el backend, integrando APIs REST, autenticacion y bases de datos relacionales.
 
 Me interesa el desarrollo de sistemas escalables, el uso de contenedores, CI/CD y arquitecturas cloud utilizando Docker, Kubernetes y servicios de GCP y AWS.
 
