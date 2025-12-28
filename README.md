@@ -12,7 +12,9 @@ Soy estudiante de ultimo ciclo de Ciencia de la Computacion, con enfoque en desa
 
 Me interesa el desarrollo de sistemas escalables, el uso de contenedores, CI/CD y arquitecturas cloud utilizando Docker, Kubernetes y servicios de GCP y AWS.
 
-🔗 **Portfolio:** https://christianpe.netlify.app/
+🔗 <a href="https://christianpe.netlify.app/" target="_blank" rel="noopener noreferrer">
+Portafolio
+</a>
 
 ---
 
@@ -96,9 +98,17 @@ Me interesa el desarrollo de sistemas escalables, el uso de contenedores, CI/CD 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://christianpe.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-pardave-espinoza-5b6ab1332/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcpardaveespinoza@gmail.com)
+<a href="https://christianpe.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/christian-pardave-espinoza-5b6ab1332/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tcpardaveespinoza@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
